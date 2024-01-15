@@ -12,7 +12,7 @@ This is a reusable Chips Input component built with React and TypeScript.
 
 ## Demo
 
- (https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/50ce851c-38f0-4994-91b9-b9c31dd30225)
+ https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/50ce851c-38f0-4994-91b9-b9c31dd30225
  (https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/60cee3a7-f359-4620-8afd-fc6759754051)
  (https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/d28f614f-ee36-4c4e-a4c4-4072dc76f0c2)
 
