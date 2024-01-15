@@ -11,11 +11,14 @@ This is a reusable Chips Input component built with React and TypeScript.
 - Animations and styling
 
 ## Demo
+![screencapture-chips-input-component-vercel-app-2024-01-16-01_26_10](https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/c1b6801b-5d81-4a96-aef5-0b9a1835762d)
 
- ![1]https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/50ce851c-38f0-4994-91b9-b9c31dd30225
- (https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/60cee3a7-f359-4620-8afd-fc6759754051)
- (https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/d28f614f-ee36-4c4e-a4c4-4072dc76f0c2)
+![screencapture-chips-input-component-vercel-app-2024-01-16-01_26_50](https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/bc37a71f-c9c1-4271-a650-eecfdd8e077c)
 
+[screen-capture (36).webm](https://github.com/27manavgandhi/Chips-Input-Component/assets/77005766/29c2885b-dd3d-47fe-a4cb-4d6f7ea32f70)
+
+
+ 
  
 ## Usage
 
